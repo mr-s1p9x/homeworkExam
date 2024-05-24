@@ -1,0 +1,3 @@
+/Users/s1pex/Documents/workspaces/homeworkExam/cmake-build-debug/CMakeFiles/homeworkExam.dir
+/Users/s1pex/Documents/workspaces/homeworkExam/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/s1pex/Documents/workspaces/homeworkExam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
